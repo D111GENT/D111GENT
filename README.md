@@ -4,7 +4,7 @@
 
 <h1 align="center"> Meet D111GENT</h1>
 <div align="center">
-<p text-align="center"> I am a beginner in the field of blockchain bug bounties, but I am eager to learn and improve my skills. I believe that "everybody's got to start somewhere," and I am excited to take my first steps in this exciting and rapidly-evolving field.
+<p text-align="center"> I am a beginner in the field of blockchain security, but I am eager to learn and improve my skills. I believe that "everybody's got to start somewhere," and I am excited to take my first steps in this exciting and rapidly-evolving field.
 
 As I continue to explore the world of blockchain technology and bug bounties, I will be sharing [my progress](https://github.com/D111GENT/my-progress/blob/main/README.md) and discoveries here on my GitHub profile. This will include any relevant projects I am working on, as well as any tips and tricks I have learned along the way.
 
