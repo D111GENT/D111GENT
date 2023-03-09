@@ -14,4 +14,4 @@ My hope is to one day create my own security operations center (SOC) and help th
 Discord: D111GENT#8314<br>
 Twitter: [@D111GENT](https://twitter.com/d111gent)<br>
 Medium: [@D111GENT](https://medium.com/@D111GENT)<br>
-YouTube: [@D111GENT](https://youtube.com/D111GENTHACKS)<br>
+YouTube: [@D111GENT](https://youtube.com/@d111genthacker)<br>
