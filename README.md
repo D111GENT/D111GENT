@@ -11,15 +11,11 @@ I am a cybersecurity enthusiast with a passion for exploring and being curious a
 My hope is to one day create my own security operations center (SOC) and help the general public understand threats, what they are capable of, and how they can be prevented. I am actively looking for ways to contribute to the cybersecurity community.
 
 # Current Focus
-1. [TryHackMe](tryhackme.com) Learn / CTFs
-2. [Udemy](udemy.com) courses (certs available)
-3. [YouTube](youtube.com/d111genthacks)
-4. [Medium](medium.com/@d111gent) articles
-
-# Enrolled In
-
-- [Python for Data Science and Machine Learning Bootcamp](https://www.udemy.com/share/101WaU3@zbuWHqAXFGrU13nt_LTriuhYrhSrPUSR1AsmZEDHZ_5kHCk20zffy5X2pK2wJPDuuQ==/)
-- [Learn Python and Ethical Hacking from Scratch](https://www.udemy.com/share/101WfE3@fRQZ4HEAcM97Ucd2SvRmMtzeMxfucm9kjBtu29cAACCadqSxpUZH5PC2N2MIb2JABQ==/)
+[TryHackMe](tryhackme.com) Learn / CTFs
+[Python for Data Science and Machine Learning Bootcamp](https://www.udemy.com/share/101WaU3@zbuWHqAXFGrU13nt_LTriuhYrhSrPUSR1AsmZEDHZ_5kHCk20zffy5X2pK2wJPDuuQ==/)
+[Learn Python and Ethical Hacking from Scratch](https://www.udemy.com/share/101WfE3@fRQZ4HEAcM97Ucd2SvRmMtzeMxfucm9kjBtu29cAACCadqSxpUZH5PC2N2MIb2JABQ==/)
+[YouTube](youtube.com/d111genthacks)
+[Medium](medium.com/@d111gent) articles
 
 # Get in Touch<br>
 Discord: D111GENT#8314<br>
