@@ -12,9 +12,13 @@ My hope is to one day create my own security operations center (SOC) and help th
 
 # Current Focus
 [TryHackMe](tryhackme.com) Learn / CTFs
+
 [Python for Data Science and Machine Learning Bootcamp](https://www.udemy.com/share/101WaU3@zbuWHqAXFGrU13nt_LTriuhYrhSrPUSR1AsmZEDHZ_5kHCk20zffy5X2pK2wJPDuuQ==/)
+
 [Learn Python and Ethical Hacking from Scratch](https://www.udemy.com/share/101WfE3@fRQZ4HEAcM97Ucd2SvRmMtzeMxfucm9kjBtu29cAACCadqSxpUZH5PC2N2MIb2JABQ==/)
+
 [YouTube](youtube.com/d111genthacks)
+
 [Medium](medium.com/@d111gent) articles
 
 # Get in Touch<br>
