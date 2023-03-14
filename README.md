@@ -9,17 +9,17 @@ Hello there! I'm D111GENT, and I enjoy coding, drinking caffeine, and tinkering 
 
 # Roadmap
 
-#### 100 Days of Python (1/100) -
+### 100 Days of Python (1/100) -
 
 ☐ [Python for Data Science and Machine Learning Bootcamp](https://www.udemy.com/share/101WaU3@zbuWHqAXFGrU13nt_LTriuhYrhSrPUSR1AsmZEDHZ_5kHCk20zffy5X2pK2wJPDuuQ==/)
 
 ☐ [Black Hat Python, 2nd Edition: Python Programming for Hackers and Pentesters](https://www.amazon.com/dp/1718501129/ref=cm_sw_r_as_gl_apa_gl_i_VHG1D00VYAX92DWZYCXY?linkCode=ml1&tag=thehackerhut-20)
 
-#### 100 Days of Mathematics (0/100) -
+### 100 Days of Mathematics (0/100) -
 
 ☐ [Complete linear algebra: theory and implementation in code](https://www.udemy.com/course/linear-algebra-theory-and-implementation/learn/lecture/10500346#overview)
 
-#### All Free [Pentester Lab Exercises](https://pentesterlab.com/exercises) -
+### All Free [Pentester Lab Exercises](https://pentesterlab.com/exercises) -
 ☐ Easy
 ☐ Medium
 ☐ Hard
