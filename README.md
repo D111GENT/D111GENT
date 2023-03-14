@@ -19,16 +19,10 @@ Hello there! I'm D111GENT, and I enjoy coding, drinking caffeine, and tinkering 
 
 ☐ [Complete linear algebra: theory and implementation in code](https://www.udemy.com/course/linear-algebra-theory-and-implementation/learn/lecture/10500346#overview)
 
-### All Free [Pentester Lab Exercises](https://pentesterlab.com/exercises) -
-☐ Easy
-☐ Medium
-☐ Hard
+### All [TryHackMe](https://tryhackme.com/) Certificates -
+☐ [Introduction to Cyber Security](https://tryhackme.com/path-action/introtocyber/join)
 
 # Get in Touch<br>
 Discord: D111GENT#1111<br>
 Twitter: [@D111GENT](https://twitter.com/d111gent)<br>
 Medium: [@D111GENT](https://medium.com/@D111GENT)<br>
-  
-# Interested in Learning Hacking?
-  
-Sign up for [PentesterLab](https://pentesterlab.com/referral/23f0tUycp9E7Mg) and get started today!
