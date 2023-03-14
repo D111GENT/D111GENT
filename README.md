@@ -28,3 +28,7 @@ Hello there! I'm D111GENT, and I enjoy coding, drinking caffeine, and tinkering 
 Discord: D111GENT#1111<br>
 Twitter: [@D111GENT](https://twitter.com/d111gent)<br>
 Medium: [@D111GENT](https://medium.com/@D111GENT)<br>
+  
+# Interested in Learning Hacking?
+  
+Sign up for [PentesterLab](https://pentesterlab.com/referral/23f0tUycp9E7Mg) and get started today!
