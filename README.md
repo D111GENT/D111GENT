@@ -12,8 +12,11 @@ Hello there! I'm D111GENT, and I enjoy coding, drinking caffeine, and tinkering 
 ### 100 Days of Python (1/100) -
 
   Mastering the basics
+  
   Build a few projects
+  
   Contribute to open-source projects
+  
   Machine learning
   
 ### 100 Days of Mathematics (1/100) -
