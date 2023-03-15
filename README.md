@@ -7,20 +7,18 @@
 <p text-align="center">
 Hello there! I'm D111GENT, and I enjoy coding, drinking caffeine, and tinkering with technology. I'm always eager to tackle fresh obstacles and thrive on making continual strides forward. Solving problems and comprehending how things operate are among my favorite learning pursuits. As you can see below, I'm constantly taking on new challenges.
 
-# Roadmap
+# Current Challenge
 
 ### 100 Days of Python (1/100) -
 
-☐ [Python for Data Science and Machine Learning Bootcamp](https://www.udemy.com/share/101WaU3@zbuWHqAXFGrU13nt_LTriuhYrhSrPUSR1AsmZEDHZ_5kHCk20zffy5X2pK2wJPDuuQ==/)
-
-☐ [Black Hat Python, 2nd Edition: Python Programming for Hackers and Pentesters](https://www.amazon.com/dp/1718501129/ref=cm_sw_r_as_gl_apa_gl_i_VHG1D00VYAX92DWZYCXY?linkCode=ml1&tag=thehackerhut-20)
-
-### 100 Days of Mathematics (0/100) -
-
-☐ [Complete linear algebra: theory and implementation in code](https://www.udemy.com/course/linear-algebra-theory-and-implementation/learn/lecture/10500346#overview)
-
-### All [TryHackMe](https://tryhackme.com/) Certificates -
-☐ [Introduction to Cyber Security](https://tryhackme.com/path-action/introtocyber/join)
+  Mastering the basics
+  Build a few projects
+  Contribute to open-source projects
+  Machine learning
+  
+### 100 Days of Mathematics (1/100) -
+  
+  Gaining knowledge that supplements data and computer science
 
 # Get in Touch<br>
 Discord: D111GENT#1111<br>
