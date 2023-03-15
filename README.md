@@ -7,17 +7,17 @@
 <p text-align="center">
 Hello there! I'm D111GENT, and I enjoy coding, drinking caffeine, and tinkering with technology. I'm always eager to tackle fresh obstacles and thrive on making continual strides forward. Solving problems and comprehending how things operate are among my favorite learning pursuits. As you can see below, I'm constantly taking on new challenges.
 
-# Current Challenge
+# Current Challenges
 
 ### 100 Days of Python (1/100) -
 
-  Mastering the basics
+  Master the basics
   
   Build a few projects
   
   Contribute to open-source projects
   
-  Machine learning
+  Dive into machine learning
   
 ### 100 Days of Mathematics (1/100) -
   
