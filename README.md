@@ -11,7 +11,7 @@ Hello there! I'm D111GENT, and I enjoy coding, drinking caffeine, and tinkering 
 
 ### 100 Days of Python (3/100) -
 
-  Master the basics
+  ✅️ Master the basics
   
   Build a few projects
   
@@ -19,7 +19,7 @@ Hello there! I'm D111GENT, and I enjoy coding, drinking caffeine, and tinkering 
   
   Dive into machine learning
   
-### 100 Days of Mathematics (2/100) -
+### 100 Days of Mathematics (3/100) -
   
   Gaining knowledge that supplements data and computer science
 
